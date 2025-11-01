@@ -1,1 +1,5 @@
-# [Boston Airbnb Dashboard](https://public.tableau.com/views/BostonAirbnbDashboard_17550440979620/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+# Boston Airbnb Dashboard
+
+[Link](https://public.tableau.com/views/BostonAirbnbDashboard_17550440979620/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+dashboard
